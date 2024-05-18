@@ -1,1 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch=".." name="origin"/>
+  <default remote="origin" revision="master"/>
+  <project name="sdk/uboot" path="uboot">
+  <project name="sdk/kernal" path="kernal"/>
+</manifest>
 
